@@ -10,5 +10,10 @@ Flights And Search Service
 - setUp express server🌏
 - set up env
 - set up middlewares(bodyparser)
+- configure MySql server
+    - install mysql2
+    - install sequelize
+    - install sequelize-cli
+    - config basic sequelize set up
 
 
