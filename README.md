@@ -3,7 +3,10 @@ Flights And Search Service
   - config
   - controllers
   - middlewares
+  - migrations
   - models
+  - seeders
+  - services
   - respository
   - utils
 
@@ -15,5 +18,16 @@ Flights And Search Service
     - install sequelize
     - install sequelize-cli
     - config basic sequelize set up
+- Inside src/config/config.json add following piece of json
+```
+"development": {
+    "username": "<My_DB login name>",
+    "password": "<My_Password>",
+    "database": "DB_NAME",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  ```
+
 
 
