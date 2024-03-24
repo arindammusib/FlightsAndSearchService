@@ -1,4 +1,5 @@
 Flights And Search Service
+Folder Structure📁
 - src
   - config
   - controllers
@@ -28,6 +29,12 @@ Flights And Search Service
     "dialect": "mysql"
   },
   ```
+
+  #Db design
+  - Airplane table
+  - Flights
+  - City
+  - Airports
 
 
 
