@@ -36,5 +36,11 @@ Folder Structure📁
   - City
   - Airports
 
+ - Inside models
+   - created City db using sequelize
+   - Added different properties in both models and migrations folder
+- Inside repository
+    - created City Repo
+    - implemented  createCity and deleteCity
 
 
